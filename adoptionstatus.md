@@ -7,4 +7,4 @@
 | CFDE-DRAFT-5 | [Alignment with PubChem for chemicals in C2M2](https://docs.google.com/document/d/1JV_xMWEV5bl3wWw3s1feomZKr2wlARFEaHw1tLYI7DY/edit) | Ontology Working Group | Standard Implementation | 9/15/21 | 10/15/21 | Comment period ended | 
 | CFDE-DRAFT-6 | [Use of Uberon for the anatomy table in the C2M2](https://docs.google.com/document/d/1x-KYUOvzO6NMiHqnl9G8JzakLcqJbkfG/edit) | Ontology Working Group | Standard Implementation | 11/15/21 | 12/15/21 | 
 | CFDE-DRAFT-7 | [Considerations about future gene pages and gene-centric dashboard for CFDE](https://docs.google.com/document/d/1n9sKKGcXpZscG-eGClg7RmUs8fzYbeQ1/edit) | Gene-Centric Dashboard Partnership | Standard Implementation | 12/13/21 | 01/11/22 | 
-| CFDE-Draft 8 | [Variant Information and Knowledge Exchange Principles](https://docs.google.com/document/d/1bP57-2wznpUIxk9xiJ5YQrabWtZjuVVN/edit) | CFDE Variant Working Group | Design Principle | 12/13/21 | 01/11/2022 |
+| CFDE-Draft 8 | [Variant Information and Knowledge Exchange Principles](https://docs.google.com/document/d/1bM2L3Ux3CrGISUVETVeVcvK8e0XT_Zey/edit) | CFDE Variant Working Group | Design Principle | 12/13/21 | 01/11/2022 |
