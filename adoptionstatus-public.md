@@ -1,0 +1,11 @@
+| DRAFT# | Title | Submitting Group | Type | Posting Date | End Date | Status | Approve | Dissent | Abstain |
+|--------|-------|------------------|------|--------------|----------|--------|---------|---------|---------|
+| CFDE-DRAFT-1 | Proto-RFC Process |  White | Policy | 3/24/20 |  | open for comments indefinitely while we refine process |        |           |            | 
+| CFDE-DRAFT-2 | Use of DOID for “disease” field in the C2M2 model |  Ontology Working Group | Standard Implementation | 7/14/21 | 1/18/22 | Comment period CLOSED |  GTEx, ERCC, KFDRC, MW, GlyGen    |           |            | 
+| CFDE-DRAFT-3 | Use of EDAM for “file_format and “data_type” fields in the file table of the C2M2 |  Ontology Working Group | Standard Implementation | 7/14/21 | 1/18/22  | Comment period CLOSED |  GTEx, ERCC, KFDRC, MW, GlyGen    |           |            | 
+| CFDE-DRAFT-4 | Use of the Ontology for Biomedical Investigations (OBI) for population of the “assay” field in C2M2 | Ontology Working Group | Standard Implementation | 9/15/21 | 1/18/22 | Comment period CLOSED |   GTEx, ERCC, KFDRC, MW, GlyGen      |           |            | 
+| CFDE-DRAFT-5 | Alignment with PubChem for chemicals in C2M2| Ontology Working Group | Standard Implementation | 9/15/21 | 1/18/22 | Comment period CLOSED | ERCC, KFDRC, MW        |           |  GTEx   | 
+| CFDE-DRAFT-6 | Use of Uberon for the anatomy table in the C2M2 | Ontology Working Group | Standard Implementation | 11/15/21 | 1/18/22 |  Comment period CLOSED      |  GTEx, ERCC, KFDRC, MW     |            | 
+| CFDE-DRAFT-7 | Considerations about future gene pages and gene-centric dashboard for CFDE | Gene-Centric Dashboard Partnership | Standard Implementation | 12/13/21 | 1/18/22 |  Comment period CLOSED  |    GTEx       |            | 
+| CFDE-Draft-8 | Variant Information and Knowledge Exchange Principles | CFDE Variant Working Group | Design Principle | 12/13/21 | 1/18/22 |  Comment period CLOSED    |           |            | 
+| CFDE-Draft-9 | FAIR Principles for Sharing Information and Knowledge about Variants Regulating Gene Expression | CFDE Variant Working Group | Standard Implementation | 3/31/22 | 4/29/22 | Comment Period CLOSED     |           |            | 
